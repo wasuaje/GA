@@ -1,0 +1,2002 @@
+"User Email";"Permissions effective","Profile Name"
+
+"1066381970584-169u2vk4gghqjf9tk0clpan3bm0j8o5t@developer.gserviceaccount.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","El Universal"
+
+"adrianaaguilar596@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal"
+
+"adry2410@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal"
+
+"alejandrolunamoreno@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal"
+
+"allanjosezambrano@gmail.com";"[u'MANAGE_USERS']","El Universal"
+
+"anamgt1803@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal"
+
+"andreinab86@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal"
+
+"angela.fortuna@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","El Universal"
+
+"auditor.ccmdafc@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal"
+
+"ayanezm@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal"
+
+"belkysmedina1@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal"
+
+"benja29@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal"
+
+"betzybr@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal"
+
+"cfleitas6@gmail.com";"[u'READ_AND_ANALYZE']","El Universal"
+
+"cj.serra@gmail.com";"[u'READ_AND_ANALYZE']","El Universal"
+
+"cpascas@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal"
+
+"crespo.luisf@gmail.com";"[u'READ_AND_ANALYZE']","El Universal"
+
+"eduardoluisquintero@gmail.com";"[u'READ_AND_ANALYZE']","El Universal"
+
+"ee192781@gmail.com";"[u'READ_AND_ANALYZE']","El Universal"
+
+"ejon71181@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","El Universal"
+
+"elbert253@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal"
+
+"eliaslilueo@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal"
+
+"elidesr@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal"
+
+"elizabethparedesv@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal"
+
+"ellemafer@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal"
+
+"enrimar.gonzalez@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal"
+
+"ernestolinzalata@gmail.com";"[u'READ_AND_ANALYZE']","El Universal"
+
+"froilan.fermin@gmail.com";"[u'READ_AND_ANALYZE']","El Universal"
+
+"hidayari@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal"
+
+"humbertonieto@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal"
+
+"ilselysr@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal"
+
+"internet.eluniversal@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","El Universal"
+
+"isley79@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal"
+
+"ivan.varela@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal"
+
+"jhonpulga31@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal"
+
+"jlsvera@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal"
+
+"jmaguerrevere@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal"
+
+"joaneibarra@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal"
+
+"jorgeeliecer71@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal"
+
+"jose.montiel@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","El Universal"
+
+"karlaprietom@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal"
+
+"katherine.echeverri@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","El Universal"
+
+"ladg.1985@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal"
+
+"lissettelr@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal"
+
+"lorenachiqui@gmail.com";"[u'READ_AND_ANALYZE']","El Universal"
+
+"luisdavid0500@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal"
+
+"mario.aranaga@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal"
+
+"michaelnissnick@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal"
+
+"mirthajim6@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal"
+
+"mlucianj@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal"
+
+"nildita85@gmail.com";"[u'READ_AND_ANALYZE']","El Universal"
+
+"ocadessiree76@gmail.com";"[u'READ_AND_ANALYZE']","El Universal"
+
+"paolo@digitools.it";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","El Universal"
+
+"paoloramazzotti@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","El Universal"
+
+"paulimar82@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal"
+
+"pvfadn.1509@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal"
+
+"rafaelr11@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal"
+
+"raquelitaramos@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","El Universal"
+
+"rbocaranda@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal"
+
+"rgimen@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","El Universal"
+
+"robertoamarista@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal"
+
+"rodriana45@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal"
+
+"roisalopezvillavicencio@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal"
+
+"rojas.anagabriela@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal"
+
+"rosemirgarcia@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal"
+
+"rubensyanes@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal"
+
+"taisa.medina@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal"
+
+"tcorredor73@gmail.com";"[u'READ_AND_ANALYZE']","El Universal"
+
+"tfreitas@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal"
+
+"tulio.casal76@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal"
+
+"venturag79@gmail.com";"[u'READ_AND_ANALYZE']","El Universal"
+
+"wasuaje@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","El Universal"
+
+"1066381970584-169u2vk4gghqjf9tk0clpan3bm0j8o5t@developer.gserviceaccount.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","Estampas 1.0"
+
+"adrianaaguilar596@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Estampas 1.0"
+
+"adry2410@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Estampas 1.0"
+
+"allanjosezambrano@gmail.com";"[u'MANAGE_USERS']","Estampas 1.0"
+
+"anamgt1803@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Estampas 1.0"
+
+"andreinab86@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Estampas 1.0"
+
+"angela.fortuna@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Estampas 1.0"
+
+"cfleitas6@gmail.com";"[u'READ_AND_ANALYZE']","Estampas 1.0"
+
+"cj.serra@gmail.com";"[u'READ_AND_ANALYZE']","Estampas 1.0"
+
+"crespo.luisf@gmail.com";"[u'READ_AND_ANALYZE']","Estampas 1.0"
+
+"eduardoluisquintero@gmail.com";"[u'READ_AND_ANALYZE']","Estampas 1.0"
+
+"ee192781@gmail.com";"[u'READ_AND_ANALYZE']","Estampas 1.0"
+
+"ejon71181@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Estampas 1.0"
+
+"elbert253@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Estampas 1.0"
+
+"elidesr@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Estampas 1.0"
+
+"enrimar.gonzalez@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Estampas 1.0"
+
+"ernestolinzalata@gmail.com";"[u'READ_AND_ANALYZE']","Estampas 1.0"
+
+"froilan.fermin@gmail.com";"[u'READ_AND_ANALYZE']","Estampas 1.0"
+
+"humbertonieto@gmail.com";"[u'READ_AND_ANALYZE']","Estampas 1.0"
+
+"internet.eluniversal@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","Estampas 1.0"
+
+"isley79@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Estampas 1.0"
+
+"jhonpulga31@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Estampas 1.0"
+
+"jlsvera@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Estampas 1.0"
+
+"jmaguerrevere@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Estampas 1.0"
+
+"joaneibarra@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Estampas 1.0"
+
+"jorgeeliecer71@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Estampas 1.0"
+
+"jose.montiel@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","Estampas 1.0"
+
+"karlaprietom@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Estampas 1.0"
+
+"katherine.echeverri@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Estampas 1.0"
+
+"ladg.1985@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Estampas 1.0"
+
+"lorenachiqui@gmail.com";"[u'READ_AND_ANALYZE']","Estampas 1.0"
+
+"mario.aranaga@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Estampas 1.0"
+
+"michaelnissnick@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Estampas 1.0"
+
+"mirthajim6@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Estampas 1.0"
+
+"mlucianj@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Estampas 1.0"
+
+"nildita85@gmail.com";"[u'READ_AND_ANALYZE']","Estampas 1.0"
+
+"ocadessiree76@gmail.com";"[u'READ_AND_ANALYZE']","Estampas 1.0"
+
+"paolo@digitools.it";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Estampas 1.0"
+
+"paoloramazzotti@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Estampas 1.0"
+
+"paulimar82@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Estampas 1.0"
+
+"pvfadn.1509@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Estampas 1.0"
+
+"rafaelr11@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Estampas 1.0"
+
+"raquelitaramos@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Estampas 1.0"
+
+"rbocaranda@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Estampas 1.0"
+
+"rgimen@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Estampas 1.0"
+
+"robertoamarista@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Estampas 1.0"
+
+"rosemirgarcia@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Estampas 1.0"
+
+"rubensyanes@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Estampas 1.0"
+
+"taisa.medina@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Estampas 1.0"
+
+"tcorredor73@gmail.com";"[u'READ_AND_ANALYZE']","Estampas 1.0"
+
+"tfreitas@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Estampas 1.0"
+
+"tulio.casal76@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Estampas 1.0"
+
+"venturag79@gmail.com";"[u'READ_AND_ANALYZE']","Estampas 1.0"
+
+"vhanessadelgado@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Estampas 1.0"
+
+"wasuaje@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","Estampas 1.0"
+
+"1066381970584-169u2vk4gghqjf9tk0clpan3bm0j8o5t@developer.gserviceaccount.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","Consolidado con Dominio"
+
+"adrianaaguilar596@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Consolidado con Dominio"
+
+"adry2410@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Consolidado con Dominio"
+
+"allanjosezambrano@gmail.com";"[u'MANAGE_USERS']","Consolidado con Dominio"
+
+"anamgt1803@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Consolidado con Dominio"
+
+"andreinab86@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Consolidado con Dominio"
+
+"angela.fortuna@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Consolidado con Dominio"
+
+"benja29@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Consolidado con Dominio"
+
+"cfleitas6@gmail.com";"[u'READ_AND_ANALYZE']","Consolidado con Dominio"
+
+"cj.serra@gmail.com";"[u'READ_AND_ANALYZE']","Consolidado con Dominio"
+
+"crespo.luisf@gmail.com";"[u'READ_AND_ANALYZE']","Consolidado con Dominio"
+
+"eduardoluisquintero@gmail.com";"[u'READ_AND_ANALYZE']","Consolidado con Dominio"
+
+"ee192781@gmail.com";"[u'READ_AND_ANALYZE']","Consolidado con Dominio"
+
+"ejon71181@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Consolidado con Dominio"
+
+"elbert253@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Consolidado con Dominio"
+
+"eliaslilueo@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Consolidado con Dominio"
+
+"elizabethparedesv@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Consolidado con Dominio"
+
+"ernestolinzalata@gmail.com";"[u'READ_AND_ANALYZE']","Consolidado con Dominio"
+
+"froilan.fermin@gmail.com";"[u'READ_AND_ANALYZE']","Consolidado con Dominio"
+
+"humbertonieto@gmail.com";"[u'READ_AND_ANALYZE']","Consolidado con Dominio"
+
+"internet.eluniversal@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","Consolidado con Dominio"
+
+"isley79@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Consolidado con Dominio"
+
+"jhonpulga31@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Consolidado con Dominio"
+
+"jlsvera@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Consolidado con Dominio"
+
+"jmaguerrevere@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Consolidado con Dominio"
+
+"joaneibarra@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Consolidado con Dominio"
+
+"jorgeeliecer71@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Consolidado con Dominio"
+
+"jose.montiel@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","Consolidado con Dominio"
+
+"katherine.echeverri@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Consolidado con Dominio"
+
+"ladg.1985@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Consolidado con Dominio"
+
+"lorenachiqui@gmail.com";"[u'READ_AND_ANALYZE']","Consolidado con Dominio"
+
+"michaelnissnick@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Consolidado con Dominio"
+
+"mirthajim6@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Consolidado con Dominio"
+
+"mlucianj@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Consolidado con Dominio"
+
+"nildita85@gmail.com";"[u'READ_AND_ANALYZE']","Consolidado con Dominio"
+
+"ocadessiree76@gmail.com";"[u'READ_AND_ANALYZE']","Consolidado con Dominio"
+
+"paolo@digitools.it";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Consolidado con Dominio"
+
+"paoloramazzotti@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Consolidado con Dominio"
+
+"paulimar82@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Consolidado con Dominio"
+
+"pvfadn.1509@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Consolidado con Dominio"
+
+"rafaelr11@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Consolidado con Dominio"
+
+"raquelitaramos@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Consolidado con Dominio"
+
+"rbocaranda@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Consolidado con Dominio"
+
+"rgimen@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Consolidado con Dominio"
+
+"rubensyanes@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Consolidado con Dominio"
+
+"tcorredor73@gmail.com";"[u'READ_AND_ANALYZE']","Consolidado con Dominio"
+
+"tfreitas@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Consolidado con Dominio"
+
+"venturag79@gmail.com";"[u'READ_AND_ANALYZE']","Consolidado con Dominio"
+
+"wasuaje@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","Consolidado con Dominio"
+
+"1066381970584-169u2vk4gghqjf9tk0clpan3bm0j8o5t@developer.gserviceaccount.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","Dominio Eupublish"
+
+"adrianaaguilar596@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Dominio Eupublish"
+
+"adry2410@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Dominio Eupublish"
+
+"allanjosezambrano@gmail.com";"[u'MANAGE_USERS']","Dominio Eupublish"
+
+"anamgt1803@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Dominio Eupublish"
+
+"andreinab86@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Dominio Eupublish"
+
+"angela.fortuna@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Dominio Eupublish"
+
+"cfleitas6@gmail.com";"[u'READ_AND_ANALYZE']","Dominio Eupublish"
+
+"cj.serra@gmail.com";"[u'READ_AND_ANALYZE']","Dominio Eupublish"
+
+"crespo.luisf@gmail.com";"[u'READ_AND_ANALYZE']","Dominio Eupublish"
+
+"eduardoluisquintero@gmail.com";"[u'READ_AND_ANALYZE']","Dominio Eupublish"
+
+"ee192781@gmail.com";"[u'READ_AND_ANALYZE']","Dominio Eupublish"
+
+"ejon71181@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Dominio Eupublish"
+
+"elbert253@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Dominio Eupublish"
+
+"ernestolinzalata@gmail.com";"[u'READ_AND_ANALYZE']","Dominio Eupublish"
+
+"froilan.fermin@gmail.com";"[u'READ_AND_ANALYZE']","Dominio Eupublish"
+
+"humbertonieto@gmail.com";"[u'READ_AND_ANALYZE']","Dominio Eupublish"
+
+"internet.eluniversal@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","Dominio Eupublish"
+
+"isley79@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Dominio Eupublish"
+
+"jhonpulga31@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Dominio Eupublish"
+
+"jlsvera@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Dominio Eupublish"
+
+"joaneibarra@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Dominio Eupublish"
+
+"jorgeeliecer71@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Dominio Eupublish"
+
+"jose.montiel@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","Dominio Eupublish"
+
+"katherine.echeverri@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Dominio Eupublish"
+
+"ladg.1985@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Dominio Eupublish"
+
+"lorenachiqui@gmail.com";"[u'READ_AND_ANALYZE']","Dominio Eupublish"
+
+"michaelnissnick@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Dominio Eupublish"
+
+"mirthajim6@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Dominio Eupublish"
+
+"mlucianj@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Dominio Eupublish"
+
+"nildita85@gmail.com";"[u'READ_AND_ANALYZE']","Dominio Eupublish"
+
+"ocadessiree76@gmail.com";"[u'READ_AND_ANALYZE']","Dominio Eupublish"
+
+"paolo@digitools.it";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Dominio Eupublish"
+
+"paoloramazzotti@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Dominio Eupublish"
+
+"paulimar82@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Dominio Eupublish"
+
+"pvfadn.1509@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Dominio Eupublish"
+
+"rafaelr11@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Dominio Eupublish"
+
+"raquelitaramos@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Dominio Eupublish"
+
+"rgimen@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Dominio Eupublish"
+
+"rubensyanes@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Dominio Eupublish"
+
+"tcorredor73@gmail.com";"[u'READ_AND_ANALYZE']","Dominio Eupublish"
+
+"tfreitas@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Dominio Eupublish"
+
+"venturag79@gmail.com";"[u'READ_AND_ANALYZE']","Dominio Eupublish"
+
+"wasuaje@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","Dominio Eupublish"
+
+"1066381970584-169u2vk4gghqjf9tk0clpan3bm0j8o5t@developer.gserviceaccount.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","El Universal Ajustes Varios"
+
+"adrianaaguilar596@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal Ajustes Varios"
+
+"adry2410@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal Ajustes Varios"
+
+"allanjosezambrano@gmail.com";"[u'MANAGE_USERS']","El Universal Ajustes Varios"
+
+"anamgt1803@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal Ajustes Varios"
+
+"andreinab86@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal Ajustes Varios"
+
+"angela.fortuna@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","El Universal Ajustes Varios"
+
+"benja29@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal Ajustes Varios"
+
+"cfleitas6@gmail.com";"[u'READ_AND_ANALYZE']","El Universal Ajustes Varios"
+
+"cj.serra@gmail.com";"[u'READ_AND_ANALYZE']","El Universal Ajustes Varios"
+
+"crespo.luisf@gmail.com";"[u'READ_AND_ANALYZE']","El Universal Ajustes Varios"
+
+"eduardoluisquintero@gmail.com";"[u'READ_AND_ANALYZE']","El Universal Ajustes Varios"
+
+"ee192781@gmail.com";"[u'READ_AND_ANALYZE']","El Universal Ajustes Varios"
+
+"ejon71181@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","El Universal Ajustes Varios"
+
+"elbert253@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal Ajustes Varios"
+
+"eliaslilueo@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal Ajustes Varios"
+
+"elizabethparedesv@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal Ajustes Varios"
+
+"ernestolinzalata@gmail.com";"[u'READ_AND_ANALYZE']","El Universal Ajustes Varios"
+
+"froilan.fermin@gmail.com";"[u'READ_AND_ANALYZE']","El Universal Ajustes Varios"
+
+"humbertonieto@gmail.com";"[u'READ_AND_ANALYZE']","El Universal Ajustes Varios"
+
+"internet.eluniversal@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","El Universal Ajustes Varios"
+
+"isley79@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal Ajustes Varios"
+
+"jhonpulga31@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal Ajustes Varios"
+
+"jlsvera@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal Ajustes Varios"
+
+"joaneibarra@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal Ajustes Varios"
+
+"jorgeeliecer71@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal Ajustes Varios"
+
+"jose.montiel@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","El Universal Ajustes Varios"
+
+"katherine.echeverri@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","El Universal Ajustes Varios"
+
+"ladg.1985@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal Ajustes Varios"
+
+"lorenachiqui@gmail.com";"[u'READ_AND_ANALYZE']","El Universal Ajustes Varios"
+
+"michaelnissnick@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal Ajustes Varios"
+
+"mirthajim6@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal Ajustes Varios"
+
+"mlucianj@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal Ajustes Varios"
+
+"nildita85@gmail.com";"[u'READ_AND_ANALYZE']","El Universal Ajustes Varios"
+
+"ocadessiree76@gmail.com";"[u'READ_AND_ANALYZE']","El Universal Ajustes Varios"
+
+"paolo@digitools.it";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","El Universal Ajustes Varios"
+
+"paoloramazzotti@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","El Universal Ajustes Varios"
+
+"paulimar82@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal Ajustes Varios"
+
+"pvfadn.1509@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal Ajustes Varios"
+
+"rafaelr11@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal Ajustes Varios"
+
+"raquelitaramos@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","El Universal Ajustes Varios"
+
+"rbocaranda@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal Ajustes Varios"
+
+"rgimen@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","El Universal Ajustes Varios"
+
+"rubensyanes@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal Ajustes Varios"
+
+"tcorredor73@gmail.com";"[u'READ_AND_ANALYZE']","El Universal Ajustes Varios"
+
+"tfreitas@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal Ajustes Varios"
+
+"venturag79@gmail.com";"[u'READ_AND_ANALYZE']","El Universal Ajustes Varios"
+
+"wasuaje@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","El Universal Ajustes Varios"
+
+"1066381970584-169u2vk4gghqjf9tk0clpan3bm0j8o5t@developer.gserviceaccount.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","sin-filtros (www.eluniversal.com)"
+
+"adrianaaguilar596@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (www.eluniversal.com)"
+
+"adry2410@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (www.eluniversal.com)"
+
+"allanjosezambrano@gmail.com";"[u'MANAGE_USERS']","sin-filtros (www.eluniversal.com)"
+
+"anamgt1803@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (www.eluniversal.com)"
+
+"andreinab86@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (www.eluniversal.com)"
+
+"angela.fortuna@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","sin-filtros (www.eluniversal.com)"
+
+"cfleitas6@gmail.com";"[u'READ_AND_ANALYZE']","sin-filtros (www.eluniversal.com)"
+
+"cj.serra@gmail.com";"[u'READ_AND_ANALYZE']","sin-filtros (www.eluniversal.com)"
+
+"cpascas@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (www.eluniversal.com)"
+
+"crespo.luisf@gmail.com";"[u'READ_AND_ANALYZE']","sin-filtros (www.eluniversal.com)"
+
+"eduardoluisquintero@gmail.com";"[u'READ_AND_ANALYZE']","sin-filtros (www.eluniversal.com)"
+
+"ee192781@gmail.com";"[u'READ_AND_ANALYZE']","sin-filtros (www.eluniversal.com)"
+
+"ejon71181@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","sin-filtros (www.eluniversal.com)"
+
+"elbert253@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (www.eluniversal.com)"
+
+"eliaslilueo@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (www.eluniversal.com)"
+
+"elizabethparedesv@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (www.eluniversal.com)"
+
+"ernestolinzalata@gmail.com";"[u'READ_AND_ANALYZE']","sin-filtros (www.eluniversal.com)"
+
+"froilan.fermin@gmail.com";"[u'READ_AND_ANALYZE']","sin-filtros (www.eluniversal.com)"
+
+"humbertonieto@gmail.com";"[u'READ_AND_ANALYZE']","sin-filtros (www.eluniversal.com)"
+
+"internet.eluniversal@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","sin-filtros (www.eluniversal.com)"
+
+"isley79@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (www.eluniversal.com)"
+
+"jhonpulga31@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (www.eluniversal.com)"
+
+"jlsvera@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (www.eluniversal.com)"
+
+"joaneibarra@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (www.eluniversal.com)"
+
+"jorgeeliecer71@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (www.eluniversal.com)"
+
+"jose.montiel@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","sin-filtros (www.eluniversal.com)"
+
+"katherine.echeverri@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","sin-filtros (www.eluniversal.com)"
+
+"ladg.1985@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (www.eluniversal.com)"
+
+"lorenachiqui@gmail.com";"[u'READ_AND_ANALYZE']","sin-filtros (www.eluniversal.com)"
+
+"michaelnissnick@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (www.eluniversal.com)"
+
+"mirthajim6@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (www.eluniversal.com)"
+
+"mlucianj@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (www.eluniversal.com)"
+
+"nildita85@gmail.com";"[u'READ_AND_ANALYZE']","sin-filtros (www.eluniversal.com)"
+
+"ocadessiree76@gmail.com";"[u'READ_AND_ANALYZE']","sin-filtros (www.eluniversal.com)"
+
+"paolo@digitools.it";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","sin-filtros (www.eluniversal.com)"
+
+"paoloramazzotti@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","sin-filtros (www.eluniversal.com)"
+
+"paulimar82@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (www.eluniversal.com)"
+
+"pvfadn.1509@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (www.eluniversal.com)"
+
+"rafaelr11@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (www.eluniversal.com)"
+
+"raquelitaramos@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","sin-filtros (www.eluniversal.com)"
+
+"rgimen@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","sin-filtros (www.eluniversal.com)"
+
+"rubensyanes@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (www.eluniversal.com)"
+
+"tcorredor73@gmail.com";"[u'READ_AND_ANALYZE']","sin-filtros (www.eluniversal.com)"
+
+"tfreitas@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (www.eluniversal.com)"
+
+"venturag79@gmail.com";"[u'READ_AND_ANALYZE']","sin-filtros (www.eluniversal.com)"
+
+"wasuaje@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","sin-filtros (www.eluniversal.com)"
+
+"1066381970584-169u2vk4gghqjf9tk0clpan3bm0j8o5t@developer.gserviceaccount.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","Agrupado por secciones"
+
+"adrianaaguilar596@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Agrupado por secciones"
+
+"adry2410@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Agrupado por secciones"
+
+"allanjosezambrano@gmail.com";"[u'MANAGE_USERS']","Agrupado por secciones"
+
+"anamgt1803@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Agrupado por secciones"
+
+"andreinab86@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Agrupado por secciones"
+
+"angela.fortuna@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Agrupado por secciones"
+
+"cfleitas6@gmail.com";"[u'READ_AND_ANALYZE']","Agrupado por secciones"
+
+"cj.serra@gmail.com";"[u'READ_AND_ANALYZE']","Agrupado por secciones"
+
+"crespo.luisf@gmail.com";"[u'READ_AND_ANALYZE']","Agrupado por secciones"
+
+"eduardoluisquintero@gmail.com";"[u'READ_AND_ANALYZE']","Agrupado por secciones"
+
+"ee192781@gmail.com";"[u'READ_AND_ANALYZE']","Agrupado por secciones"
+
+"ejon71181@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Agrupado por secciones"
+
+"elbert253@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Agrupado por secciones"
+
+"ernestolinzalata@gmail.com";"[u'READ_AND_ANALYZE']","Agrupado por secciones"
+
+"froilan.fermin@gmail.com";"[u'READ_AND_ANALYZE']","Agrupado por secciones"
+
+"humbertonieto@gmail.com";"[u'READ_AND_ANALYZE']","Agrupado por secciones"
+
+"internet.eluniversal@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","Agrupado por secciones"
+
+"isley79@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Agrupado por secciones"
+
+"jhonpulga31@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Agrupado por secciones"
+
+"jlsvera@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Agrupado por secciones"
+
+"joaneibarra@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Agrupado por secciones"
+
+"jorgeeliecer71@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Agrupado por secciones"
+
+"jose.montiel@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","Agrupado por secciones"
+
+"katherine.echeverri@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Agrupado por secciones"
+
+"ladg.1985@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Agrupado por secciones"
+
+"lorenachiqui@gmail.com";"[u'READ_AND_ANALYZE']","Agrupado por secciones"
+
+"michaelnissnick@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Agrupado por secciones"
+
+"mirthajim6@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Agrupado por secciones"
+
+"mlucianj@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Agrupado por secciones"
+
+"nildita85@gmail.com";"[u'READ_AND_ANALYZE']","Agrupado por secciones"
+
+"ocadessiree76@gmail.com";"[u'READ_AND_ANALYZE']","Agrupado por secciones"
+
+"paolo@digitools.it";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Agrupado por secciones"
+
+"paoloramazzotti@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Agrupado por secciones"
+
+"paulimar82@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Agrupado por secciones"
+
+"pvfadn.1509@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Agrupado por secciones"
+
+"rafaelr11@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Agrupado por secciones"
+
+"raquelitaramos@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Agrupado por secciones"
+
+"rgimen@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Agrupado por secciones"
+
+"rubensyanes@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Agrupado por secciones"
+
+"tcorredor73@gmail.com";"[u'READ_AND_ANALYZE']","Agrupado por secciones"
+
+"tfreitas@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Agrupado por secciones"
+
+"venturag79@gmail.com";"[u'READ_AND_ANALYZE']","Agrupado por secciones"
+
+"wasuaje@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","Agrupado por secciones"
+
+"1066381970584-169u2vk4gghqjf9tk0clpan3bm0j8o5t@developer.gserviceaccount.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","El Universal 2012 / 2013 - PR"
+
+"adrianaaguilar596@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal 2012 / 2013 - PR"
+
+"adry2410@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal 2012 / 2013 - PR"
+
+"allanjosezambrano@gmail.com";"[u'MANAGE_USERS']","El Universal 2012 / 2013 - PR"
+
+"anamgt1803@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal 2012 / 2013 - PR"
+
+"andreinab86@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal 2012 / 2013 - PR"
+
+"angela.fortuna@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","El Universal 2012 / 2013 - PR"
+
+"cfleitas6@gmail.com";"[u'READ_AND_ANALYZE']","El Universal 2012 / 2013 - PR"
+
+"cj.serra@gmail.com";"[u'READ_AND_ANALYZE']","El Universal 2012 / 2013 - PR"
+
+"crespo.luisf@gmail.com";"[u'READ_AND_ANALYZE']","El Universal 2012 / 2013 - PR"
+
+"eduardoluisquintero@gmail.com";"[u'READ_AND_ANALYZE']","El Universal 2012 / 2013 - PR"
+
+"ee192781@gmail.com";"[u'READ_AND_ANALYZE']","El Universal 2012 / 2013 - PR"
+
+"ejon71181@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","El Universal 2012 / 2013 - PR"
+
+"elbert253@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal 2012 / 2013 - PR"
+
+"eliaslilueo@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal 2012 / 2013 - PR"
+
+"elizabethparedesv@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal 2012 / 2013 - PR"
+
+"ernestolinzalata@gmail.com";"[u'READ_AND_ANALYZE']","El Universal 2012 / 2013 - PR"
+
+"froilan.fermin@gmail.com";"[u'READ_AND_ANALYZE']","El Universal 2012 / 2013 - PR"
+
+"humbertonieto@gmail.com";"[u'READ_AND_ANALYZE']","El Universal 2012 / 2013 - PR"
+
+"internet.eluniversal@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","El Universal 2012 / 2013 - PR"
+
+"isley79@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal 2012 / 2013 - PR"
+
+"jhonpulga31@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal 2012 / 2013 - PR"
+
+"jlsvera@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal 2012 / 2013 - PR"
+
+"joaneibarra@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal 2012 / 2013 - PR"
+
+"jorgeeliecer71@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal 2012 / 2013 - PR"
+
+"jose.montiel@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","El Universal 2012 / 2013 - PR"
+
+"katherine.echeverri@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","El Universal 2012 / 2013 - PR"
+
+"ladg.1985@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal 2012 / 2013 - PR"
+
+"lorenachiqui@gmail.com";"[u'READ_AND_ANALYZE']","El Universal 2012 / 2013 - PR"
+
+"michaelnissnick@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal 2012 / 2013 - PR"
+
+"mirthajim6@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal 2012 / 2013 - PR"
+
+"mlucianj@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal 2012 / 2013 - PR"
+
+"nildita85@gmail.com";"[u'READ_AND_ANALYZE']","El Universal 2012 / 2013 - PR"
+
+"ocadessiree76@gmail.com";"[u'READ_AND_ANALYZE']","El Universal 2012 / 2013 - PR"
+
+"paolo@digitools.it";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","El Universal 2012 / 2013 - PR"
+
+"paoloramazzotti@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","El Universal 2012 / 2013 - PR"
+
+"paulimar82@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal 2012 / 2013 - PR"
+
+"pvfadn.1509@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal 2012 / 2013 - PR"
+
+"rafaelr11@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal 2012 / 2013 - PR"
+
+"raquelitaramos@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","El Universal 2012 / 2013 - PR"
+
+"rgimen@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","El Universal 2012 / 2013 - PR"
+
+"rubensyanes@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal 2012 / 2013 - PR"
+
+"tcorredor73@gmail.com";"[u'READ_AND_ANALYZE']","El Universal 2012 / 2013 - PR"
+
+"tfreitas@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","El Universal 2012 / 2013 - PR"
+
+"venturag79@gmail.com";"[u'READ_AND_ANALYZE']","El Universal 2012 / 2013 - PR"
+
+"wasuaje@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","El Universal 2012 / 2013 - PR"
+
+"1066381970584-169u2vk4gghqjf9tk0clpan3bm0j8o5t@developer.gserviceaccount.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","Porlapuerta"
+
+"allanjosezambrano@gmail.com";"[u'MANAGE_USERS']","Porlapuerta"
+
+"angela.fortuna@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Porlapuerta"
+
+"carroseluniversal@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Porlapuerta"
+
+"cfleitas6@gmail.com";"[u'READ_AND_ANALYZE']","Porlapuerta"
+
+"cj.serra@gmail.com";"[u'READ_AND_ANALYZE']","Porlapuerta"
+
+"clasificados.anunciantes@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Porlapuerta"
+
+"crespo.luisf@gmail.com";"[u'READ_AND_ANALYZE']","Porlapuerta"
+
+"danygomez1@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Porlapuerta"
+
+"eduardoluisquintero@gmail.com";"[u'READ_AND_ANALYZE']","Porlapuerta"
+
+"ejon71181@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Porlapuerta"
+
+"elidesr@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Porlapuerta"
+
+"froilan.fermin@gmail.com";"[u'READ_AND_ANALYZE']","Porlapuerta"
+
+"humbertonieto@gmail.com";"[u'READ_AND_ANALYZE']","Porlapuerta"
+
+"inmueblesceu@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Porlapuerta"
+
+"internet.eluniversal@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","Porlapuerta"
+
+"jlsvera@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Porlapuerta"
+
+"joaneibarra@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Porlapuerta"
+
+"jorgeeliecer71@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Porlapuerta"
+
+"jose.montiel@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","Porlapuerta"
+
+"karlaprietom@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Porlapuerta"
+
+"katherine.echeverri@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Porlapuerta"
+
+"ladg.1985@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Porlapuerta"
+
+"lorenachiqui@gmail.com";"[u'READ_AND_ANALYZE']","Porlapuerta"
+
+"mirthajim6@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Porlapuerta"
+
+"mlucianj@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Porlapuerta"
+
+"nildita85@gmail.com";"[u'READ_AND_ANALYZE']","Porlapuerta"
+
+"paolo@digitools.it";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Porlapuerta"
+
+"paoloramazzotti@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Porlapuerta"
+
+"paulimar82@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Porlapuerta"
+
+"raquelitaramos@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Porlapuerta"
+
+"rbocaranda@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Porlapuerta"
+
+"rgimen@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Porlapuerta"
+
+"rubensyanes@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Porlapuerta"
+
+"taisa.medina@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Porlapuerta"
+
+"tcorredor73@gmail.com";"[u'READ_AND_ANALYZE']","Porlapuerta"
+
+"tfreitas@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Porlapuerta"
+
+"venturag79@gmail.com";"[u'READ_AND_ANALYZE']","Porlapuerta"
+
+"wasuaje@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","Porlapuerta"
+
+"1066381970584-169u2vk4gghqjf9tk0clpan3bm0j8o5t@developer.gserviceaccount.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","Autofuturo"
+
+"allanjosezambrano@gmail.com";"[u'MANAGE_USERS']","Autofuturo"
+
+"angela.fortuna@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Autofuturo"
+
+"carroseluniversal@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Autofuturo"
+
+"cfleitas6@gmail.com";"[u'READ_AND_ANALYZE']","Autofuturo"
+
+"cj.serra@gmail.com";"[u'READ_AND_ANALYZE']","Autofuturo"
+
+"crespo.luisf@gmail.com";"[u'READ_AND_ANALYZE']","Autofuturo"
+
+"eduardoluisquintero@gmail.com";"[u'READ_AND_ANALYZE']","Autofuturo"
+
+"ejon71181@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Autofuturo"
+
+"froilan.fermin@gmail.com";"[u'READ_AND_ANALYZE']","Autofuturo"
+
+"humbertonieto@gmail.com";"[u'READ_AND_ANALYZE']","Autofuturo"
+
+"inmueblesceu@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Autofuturo"
+
+"internet.eluniversal@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","Autofuturo"
+
+"jlsvera@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Autofuturo"
+
+"joaneibarra@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Autofuturo"
+
+"jorgeeliecer71@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Autofuturo"
+
+"jose.montiel@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","Autofuturo"
+
+"katherine.echeverri@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Autofuturo"
+
+"ladg.1985@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Autofuturo"
+
+"lorenachiqui@gmail.com";"[u'READ_AND_ANALYZE']","Autofuturo"
+
+"mlucianj@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Autofuturo"
+
+"nildita85@gmail.com";"[u'READ_AND_ANALYZE']","Autofuturo"
+
+"paolo@digitools.it";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Autofuturo"
+
+"paoloramazzotti@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Autofuturo"
+
+"paulimar82@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Autofuturo"
+
+"raquelitaramos@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Autofuturo"
+
+"rgimen@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Autofuturo"
+
+"rubensyanes@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Autofuturo"
+
+"tcorredor73@gmail.com";"[u'READ_AND_ANALYZE']","Autofuturo"
+
+"tfreitas@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Autofuturo"
+
+"venturag79@gmail.com";"[u'READ_AND_ANALYZE']","Autofuturo"
+
+"wasuaje@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","Autofuturo"
+
+"1066381970584-169u2vk4gghqjf9tk0clpan3bm0j8o5t@developer.gserviceaccount.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","Empleos"
+
+"adrianaaguilar596@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos"
+
+"adry2410@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos"
+
+"allanjosezambrano@gmail.com";"[u'MANAGE_USERS']","Empleos"
+
+"anamgt1803@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos"
+
+"angela.fortuna@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Empleos"
+
+"belkysmedina1@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos"
+
+"betzybr@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos"
+
+"calzadillaherminia@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos"
+
+"cfleitas6@gmail.com";"[u'READ_AND_ANALYZE']","Empleos"
+
+"cj.serra@gmail.com";"[u'READ_AND_ANALYZE']","Empleos"
+
+"clasificados.anunciantes@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos"
+
+"crespo.luisf@gmail.com";"[u'READ_AND_ANALYZE']","Empleos"
+
+"danygomez1@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos"
+
+"eduardoluisquintero@gmail.com";"[u'READ_AND_ANALYZE']","Empleos"
+
+"ejon71181@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Empleos"
+
+"elbert253@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos"
+
+"eliaslilueo@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos"
+
+"elidesr@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos"
+
+"elizabethparedesv@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos"
+
+"froilan.fermin@gmail.com";"[u'READ_AND_ANALYZE']","Empleos"
+
+"grupocanalesdeventa@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos"
+
+"humbertonieto@gmail.com";"[u'READ_AND_ANALYZE']","Empleos"
+
+"inmueblesceu@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos"
+
+"internet.eluniversal@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","Empleos"
+
+"isley79@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos"
+
+"ivan.varela@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos"
+
+"jlsvera@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos"
+
+"jmaguerrevere@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos"
+
+"joaneibarra@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos"
+
+"jorgeeliecer71@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos"
+
+"jose.montiel@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","Empleos"
+
+"karlaprietom@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos"
+
+"katherine.echeverri@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Empleos"
+
+"kmanzol26@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos"
+
+"ladg.1985@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos"
+
+"lissettelr@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos"
+
+"lorenachiqui@gmail.com";"[u'READ_AND_ANALYZE']","Empleos"
+
+"luisdavid0500@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos"
+
+"maryalma05@gmail.com";"[u'READ_AND_ANALYZE']","Empleos"
+
+"mava23@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos"
+
+"mirthajim6@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos"
+
+"mlucianj@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos"
+
+"nildita85@gmail.com";"[u'READ_AND_ANALYZE']","Empleos"
+
+"paolo@digitools.it";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Empleos"
+
+"paoloramazzotti@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Empleos"
+
+"paulimar82@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos"
+
+"raquelitaramos@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Empleos"
+
+"rbocaranda@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos"
+
+"rgimen@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Empleos"
+
+"rodriana45@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos"
+
+"roisalopezvillavicencio@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos"
+
+"rosemirgarcia@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos"
+
+"rubensyanes@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos"
+
+"taisa.medina@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos"
+
+"tcorredor73@gmail.com";"[u'READ_AND_ANALYZE']","Empleos"
+
+"tfreitas@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Empleos"
+
+"venturag79@gmail.com";"[u'READ_AND_ANALYZE']","Empleos"
+
+"wasuaje@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","Empleos"
+
+"xiomaramb21@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos"
+
+"1066381970584-169u2vk4gghqjf9tk0clpan3bm0j8o5t@developer.gserviceaccount.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","sin-filtros (empleos.eluniversal.com)"
+
+"adrianaaguilar596@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (empleos.eluniversal.com)"
+
+"adry2410@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (empleos.eluniversal.com)"
+
+"allanjosezambrano@gmail.com";"[u'MANAGE_USERS']","sin-filtros (empleos.eluniversal.com)"
+
+"anamgt1803@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (empleos.eluniversal.com)"
+
+"angela.fortuna@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","sin-filtros (empleos.eluniversal.com)"
+
+"calzadillaherminia@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (empleos.eluniversal.com)"
+
+"cfleitas6@gmail.com";"[u'READ_AND_ANALYZE']","sin-filtros (empleos.eluniversal.com)"
+
+"cj.serra@gmail.com";"[u'READ_AND_ANALYZE']","sin-filtros (empleos.eluniversal.com)"
+
+"clasificados.anunciantes@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (empleos.eluniversal.com)"
+
+"crespo.luisf@gmail.com";"[u'READ_AND_ANALYZE']","sin-filtros (empleos.eluniversal.com)"
+
+"eduardoluisquintero@gmail.com";"[u'READ_AND_ANALYZE']","sin-filtros (empleos.eluniversal.com)"
+
+"ejon71181@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","sin-filtros (empleos.eluniversal.com)"
+
+"elbert253@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (empleos.eluniversal.com)"
+
+"eliaslilueo@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (empleos.eluniversal.com)"
+
+"elizabethparedesv@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (empleos.eluniversal.com)"
+
+"froilan.fermin@gmail.com";"[u'READ_AND_ANALYZE']","sin-filtros (empleos.eluniversal.com)"
+
+"grupocanalesdeventa@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (empleos.eluniversal.com)"
+
+"humbertonieto@gmail.com";"[u'READ_AND_ANALYZE']","sin-filtros (empleos.eluniversal.com)"
+
+"internet.eluniversal@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","sin-filtros (empleos.eluniversal.com)"
+
+"isley79@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (empleos.eluniversal.com)"
+
+"jlsvera@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (empleos.eluniversal.com)"
+
+"joaneibarra@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (empleos.eluniversal.com)"
+
+"jorgeeliecer71@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (empleos.eluniversal.com)"
+
+"jose.montiel@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","sin-filtros (empleos.eluniversal.com)"
+
+"karlaprietom@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (empleos.eluniversal.com)"
+
+"katherine.echeverri@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","sin-filtros (empleos.eluniversal.com)"
+
+"kmanzol26@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (empleos.eluniversal.com)"
+
+"ladg.1985@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (empleos.eluniversal.com)"
+
+"lorenachiqui@gmail.com";"[u'READ_AND_ANALYZE']","sin-filtros (empleos.eluniversal.com)"
+
+"luisdavid0500@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (empleos.eluniversal.com)"
+
+"maryalma05@gmail.com";"[u'READ_AND_ANALYZE']","sin-filtros (empleos.eluniversal.com)"
+
+"mlucianj@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (empleos.eluniversal.com)"
+
+"nildita85@gmail.com";"[u'READ_AND_ANALYZE']","sin-filtros (empleos.eluniversal.com)"
+
+"paolo@digitools.it";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","sin-filtros (empleos.eluniversal.com)"
+
+"paoloramazzotti@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","sin-filtros (empleos.eluniversal.com)"
+
+"paulimar82@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (empleos.eluniversal.com)"
+
+"raquelitaramos@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","sin-filtros (empleos.eluniversal.com)"
+
+"rgimen@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","sin-filtros (empleos.eluniversal.com)"
+
+"rubensyanes@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (empleos.eluniversal.com)"
+
+"tcorredor73@gmail.com";"[u'READ_AND_ANALYZE']","sin-filtros (empleos.eluniversal.com)"
+
+"tfreitas@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","sin-filtros (empleos.eluniversal.com)"
+
+"venturag79@gmail.com";"[u'READ_AND_ANALYZE']","sin-filtros (empleos.eluniversal.com)"
+
+"wasuaje@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","sin-filtros (empleos.eluniversal.com)"
+
+"1066381970584-169u2vk4gghqjf9tk0clpan3bm0j8o5t@developer.gserviceaccount.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","Empleos 2012 / 2013 - PR"
+
+"adrianaaguilar596@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos 2012 / 2013 - PR"
+
+"adry2410@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos 2012 / 2013 - PR"
+
+"allanjosezambrano@gmail.com";"[u'MANAGE_USERS']","Empleos 2012 / 2013 - PR"
+
+"anamgt1803@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos 2012 / 2013 - PR"
+
+"angela.fortuna@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Empleos 2012 / 2013 - PR"
+
+"calzadillaherminia@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos 2012 / 2013 - PR"
+
+"cfleitas6@gmail.com";"[u'READ_AND_ANALYZE']","Empleos 2012 / 2013 - PR"
+
+"cj.serra@gmail.com";"[u'READ_AND_ANALYZE']","Empleos 2012 / 2013 - PR"
+
+"crespo.luisf@gmail.com";"[u'READ_AND_ANALYZE']","Empleos 2012 / 2013 - PR"
+
+"eduardoluisquintero@gmail.com";"[u'READ_AND_ANALYZE']","Empleos 2012 / 2013 - PR"
+
+"ejon71181@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Empleos 2012 / 2013 - PR"
+
+"elbert253@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos 2012 / 2013 - PR"
+
+"eliaslilueo@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos 2012 / 2013 - PR"
+
+"elizabethparedesv@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos 2012 / 2013 - PR"
+
+"froilan.fermin@gmail.com";"[u'READ_AND_ANALYZE']","Empleos 2012 / 2013 - PR"
+
+"humbertonieto@gmail.com";"[u'READ_AND_ANALYZE']","Empleos 2012 / 2013 - PR"
+
+"internet.eluniversal@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","Empleos 2012 / 2013 - PR"
+
+"isley79@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos 2012 / 2013 - PR"
+
+"jlsvera@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos 2012 / 2013 - PR"
+
+"joaneibarra@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos 2012 / 2013 - PR"
+
+"jorgeeliecer71@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos 2012 / 2013 - PR"
+
+"jose.montiel@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","Empleos 2012 / 2013 - PR"
+
+"katherine.echeverri@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Empleos 2012 / 2013 - PR"
+
+"kmanzol26@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos 2012 / 2013 - PR"
+
+"ladg.1985@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos 2012 / 2013 - PR"
+
+"lorenachiqui@gmail.com";"[u'READ_AND_ANALYZE']","Empleos 2012 / 2013 - PR"
+
+"luisdavid0500@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos 2012 / 2013 - PR"
+
+"maryalma05@gmail.com";"[u'READ_AND_ANALYZE']","Empleos 2012 / 2013 - PR"
+
+"mlucianj@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos 2012 / 2013 - PR"
+
+"nildita85@gmail.com";"[u'READ_AND_ANALYZE']","Empleos 2012 / 2013 - PR"
+
+"paolo@digitools.it";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Empleos 2012 / 2013 - PR"
+
+"paoloramazzotti@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Empleos 2012 / 2013 - PR"
+
+"paulimar82@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos 2012 / 2013 - PR"
+
+"raquelitaramos@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Empleos 2012 / 2013 - PR"
+
+"rgimen@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Empleos 2012 / 2013 - PR"
+
+"rubensyanes@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos 2012 / 2013 - PR"
+
+"tcorredor73@gmail.com";"[u'READ_AND_ANALYZE']","Empleos 2012 / 2013 - PR"
+
+"tfreitas@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Empleos 2012 / 2013 - PR"
+
+"venturag79@gmail.com";"[u'READ_AND_ANALYZE']","Empleos 2012 / 2013 - PR"
+
+"wasuaje@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","Empleos 2012 / 2013 - PR"
+
+"1066381970584-169u2vk4gghqjf9tk0clpan3bm0j8o5t@developer.gserviceaccount.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","SOLO Micrositios"
+
+"adrianaaguilar596@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","SOLO Micrositios"
+
+"adry2410@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","SOLO Micrositios"
+
+"allanjosezambrano@gmail.com";"[u'MANAGE_USERS']","SOLO Micrositios"
+
+"anamgt1803@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","SOLO Micrositios"
+
+"angela.fortuna@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","SOLO Micrositios"
+
+"calzadillaherminia@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","SOLO Micrositios"
+
+"cfleitas6@gmail.com";"[u'READ_AND_ANALYZE']","SOLO Micrositios"
+
+"cj.serra@gmail.com";"[u'READ_AND_ANALYZE']","SOLO Micrositios"
+
+"crespo.luisf@gmail.com";"[u'READ_AND_ANALYZE']","SOLO Micrositios"
+
+"eduardoluisquintero@gmail.com";"[u'READ_AND_ANALYZE']","SOLO Micrositios"
+
+"ejon71181@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","SOLO Micrositios"
+
+"elbert253@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","SOLO Micrositios"
+
+"eliaslilueo@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","SOLO Micrositios"
+
+"elizabethparedesv@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","SOLO Micrositios"
+
+"froilan.fermin@gmail.com";"[u'READ_AND_ANALYZE']","SOLO Micrositios"
+
+"humbertonieto@gmail.com";"[u'READ_AND_ANALYZE']","SOLO Micrositios"
+
+"internet.eluniversal@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","SOLO Micrositios"
+
+"isley79@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","SOLO Micrositios"
+
+"jlsvera@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","SOLO Micrositios"
+
+"joaneibarra@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","SOLO Micrositios"
+
+"jorgeeliecer71@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","SOLO Micrositios"
+
+"jose.montiel@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","SOLO Micrositios"
+
+"katherine.echeverri@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","SOLO Micrositios"
+
+"kmanzol26@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","SOLO Micrositios"
+
+"ladg.1985@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","SOLO Micrositios"
+
+"lorenachiqui@gmail.com";"[u'READ_AND_ANALYZE']","SOLO Micrositios"
+
+"luisdavid0500@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","SOLO Micrositios"
+
+"maryalma05@gmail.com";"[u'READ_AND_ANALYZE']","SOLO Micrositios"
+
+"mlucianj@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","SOLO Micrositios"
+
+"nildita85@gmail.com";"[u'READ_AND_ANALYZE']","SOLO Micrositios"
+
+"paolo@digitools.it";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","SOLO Micrositios"
+
+"paoloramazzotti@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","SOLO Micrositios"
+
+"paulimar82@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","SOLO Micrositios"
+
+"raquelitaramos@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","SOLO Micrositios"
+
+"rgimen@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","SOLO Micrositios"
+
+"rubensyanes@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","SOLO Micrositios"
+
+"tcorredor73@gmail.com";"[u'READ_AND_ANALYZE']","SOLO Micrositios"
+
+"tfreitas@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","SOLO Micrositios"
+
+"venturag79@gmail.com";"[u'READ_AND_ANALYZE']","SOLO Micrositios"
+
+"wasuaje@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","SOLO Micrositios"
+
+"1066381970584-169u2vk4gghqjf9tk0clpan3bm0j8o5t@developer.gserviceaccount.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","Empleos SIN Micrositios"
+
+"adrianaaguilar596@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos SIN Micrositios"
+
+"adry2410@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos SIN Micrositios"
+
+"allanjosezambrano@gmail.com";"[u'MANAGE_USERS']","Empleos SIN Micrositios"
+
+"anamgt1803@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos SIN Micrositios"
+
+"angela.fortuna@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Empleos SIN Micrositios"
+
+"calzadillaherminia@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos SIN Micrositios"
+
+"cfleitas6@gmail.com";"[u'READ_AND_ANALYZE']","Empleos SIN Micrositios"
+
+"cj.serra@gmail.com";"[u'READ_AND_ANALYZE']","Empleos SIN Micrositios"
+
+"crespo.luisf@gmail.com";"[u'READ_AND_ANALYZE']","Empleos SIN Micrositios"
+
+"eduardoluisquintero@gmail.com";"[u'READ_AND_ANALYZE']","Empleos SIN Micrositios"
+
+"ejon71181@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Empleos SIN Micrositios"
+
+"elbert253@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos SIN Micrositios"
+
+"eliaslilueo@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos SIN Micrositios"
+
+"elizabethparedesv@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos SIN Micrositios"
+
+"froilan.fermin@gmail.com";"[u'READ_AND_ANALYZE']","Empleos SIN Micrositios"
+
+"humbertonieto@gmail.com";"[u'READ_AND_ANALYZE']","Empleos SIN Micrositios"
+
+"internet.eluniversal@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","Empleos SIN Micrositios"
+
+"isley79@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos SIN Micrositios"
+
+"jlsvera@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos SIN Micrositios"
+
+"joaneibarra@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos SIN Micrositios"
+
+"jorgeeliecer71@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos SIN Micrositios"
+
+"jose.montiel@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","Empleos SIN Micrositios"
+
+"katherine.echeverri@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Empleos SIN Micrositios"
+
+"kmanzol26@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos SIN Micrositios"
+
+"ladg.1985@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos SIN Micrositios"
+
+"lorenachiqui@gmail.com";"[u'READ_AND_ANALYZE']","Empleos SIN Micrositios"
+
+"luisdavid0500@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos SIN Micrositios"
+
+"maryalma05@gmail.com";"[u'READ_AND_ANALYZE']","Empleos SIN Micrositios"
+
+"mlucianj@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos SIN Micrositios"
+
+"nildita85@gmail.com";"[u'READ_AND_ANALYZE']","Empleos SIN Micrositios"
+
+"paolo@digitools.it";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Empleos SIN Micrositios"
+
+"paoloramazzotti@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Empleos SIN Micrositios"
+
+"paulimar82@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos SIN Micrositios"
+
+"raquelitaramos@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Empleos SIN Micrositios"
+
+"rgimen@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Empleos SIN Micrositios"
+
+"rubensyanes@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Empleos SIN Micrositios"
+
+"tcorredor73@gmail.com";"[u'READ_AND_ANALYZE']","Empleos SIN Micrositios"
+
+"tfreitas@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Empleos SIN Micrositios"
+
+"venturag79@gmail.com";"[u'READ_AND_ANALYZE']","Empleos SIN Micrositios"
+
+"wasuaje@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","Empleos SIN Micrositios"
+
+"1066381970584-169u2vk4gghqjf9tk0clpan3bm0j8o5t@developer.gserviceaccount.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"adrianaaguilar596@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"adry2410@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"adwords@lastchance.es";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"alejandrolunamoreno@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"allanjosezambrano@gmail.com";"[u'MANAGE_USERS']","Clasificados El Universal"
+
+"anamgt1803@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"angela.fortuna@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"asn@lastchance.es";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"belkysmedina1@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"betzybr@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"calzadillaherminia@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"carroseluniversal@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"cfleitas6@gmail.com";"[u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"cj.serra@gmail.com";"[u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"clasificados.anunciantes@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"cpascas@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"crespo.luisf@gmail.com";"[u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"danygomez1@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"eduardoluisquintero@gmail.com";"[u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"ejon71181@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"elbert253@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"eliaslilueo@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"elidesr@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"elizabethparedesv@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"franciscoa633@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"francymanrique1523@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"froilan.fermin@gmail.com";"[u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"grupocanalesdeventa@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"hidayari@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"humbertonieto@gmail.com";"[u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"ilsebadilla@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"inmueblesceu@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"internet.eluniversal@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"isley79@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"ivan.varela@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"jlsvera@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"jmaguerrevere@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"joaneibarra@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"jorgeeliecer71@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"jose.montiel@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"karlaprietom@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"katherine.echeverri@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"kmanzol26@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"ladg.1985@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"lissettelr@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"lorenachiqui@gmail.com";"[u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"luisdavid0500@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"maryalma05@gmail.com";"[u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"mava23@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"mirthajim6@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"mlucianj@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"mochima79@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"nazac1204@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"nildita85@gmail.com";"[u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"paolo@digitools.it";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"paoloramazzotti@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"paulimar82@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"rafaelr11@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"raquelitaramos@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"rbocaranda@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"rgimen@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"rodriana45@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"roisalopezvillavicencio@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"rojas.anagabriela@gmail.com";"[u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"rosemirgarcia@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"rubensyanes@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"taisa.medina@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"tcorredor73@gmail.com";"[u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"tfreitas@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"venturag79@gmail.com";"[u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"wasuaje@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"xiomaramb21@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados El Universal"
+
+"1066381970584-169u2vk4gghqjf9tk0clpan3bm0j8o5t@developer.gserviceaccount.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","Clasificados con dominio"
+
+"adrianaaguilar596@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados con dominio"
+
+"adry2410@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados con dominio"
+
+"adwords@lastchance.es";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados con dominio"
+
+"allanjosezambrano@gmail.com";"[u'MANAGE_USERS']","Clasificados con dominio"
+
+"anamgt1803@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados con dominio"
+
+"angela.fortuna@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Clasificados con dominio"
+
+"asn@lastchance.es";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados con dominio"
+
+"calzadillaherminia@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados con dominio"
+
+"carroseluniversal@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados con dominio"
+
+"cfleitas6@gmail.com";"[u'READ_AND_ANALYZE']","Clasificados con dominio"
+
+"cj.serra@gmail.com";"[u'READ_AND_ANALYZE']","Clasificados con dominio"
+
+"clasificados.anunciantes@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados con dominio"
+
+"crespo.luisf@gmail.com";"[u'READ_AND_ANALYZE']","Clasificados con dominio"
+
+"eduardoluisquintero@gmail.com";"[u'READ_AND_ANALYZE']","Clasificados con dominio"
+
+"ejon71181@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Clasificados con dominio"
+
+"elbert253@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados con dominio"
+
+"eliaslilueo@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados con dominio"
+
+"elizabethparedesv@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados con dominio"
+
+"francymanrique1523@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados con dominio"
+
+"froilan.fermin@gmail.com";"[u'READ_AND_ANALYZE']","Clasificados con dominio"
+
+"grupocanalesdeventa@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados con dominio"
+
+"hidayari@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados con dominio"
+
+"humbertonieto@gmail.com";"[u'READ_AND_ANALYZE']","Clasificados con dominio"
+
+"ilsebadilla@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados con dominio"
+
+"internet.eluniversal@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","Clasificados con dominio"
+
+"isley79@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados con dominio"
+
+"jlsvera@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados con dominio"
+
+"jmaguerrevere@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados con dominio"
+
+"joaneibarra@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados con dominio"
+
+"jorgeeliecer71@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados con dominio"
+
+"jose.montiel@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","Clasificados con dominio"
+
+"katherine.echeverri@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Clasificados con dominio"
+
+"kmanzol26@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados con dominio"
+
+"ladg.1985@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados con dominio"
+
+"lorenachiqui@gmail.com";"[u'READ_AND_ANALYZE']","Clasificados con dominio"
+
+"luisdavid0500@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados con dominio"
+
+"maryalma05@gmail.com";"[u'READ_AND_ANALYZE']","Clasificados con dominio"
+
+"mava23@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados con dominio"
+
+"mlucianj@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados con dominio"
+
+"mochima79@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados con dominio"
+
+"nazac1204@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados con dominio"
+
+"nildita85@gmail.com";"[u'READ_AND_ANALYZE']","Clasificados con dominio"
+
+"paolo@digitools.it";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Clasificados con dominio"
+
+"paoloramazzotti@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Clasificados con dominio"
+
+"paulimar82@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados con dominio"
+
+"rafaelr11@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados con dominio"
+
+"raquelitaramos@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Clasificados con dominio"
+
+"rbocaranda@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados con dominio"
+
+"rgimen@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Clasificados con dominio"
+
+"rojas.anagabriela@gmail.com";"[u'READ_AND_ANALYZE']","Clasificados con dominio"
+
+"rubensyanes@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados con dominio"
+
+"tcorredor73@gmail.com";"[u'READ_AND_ANALYZE']","Clasificados con dominio"
+
+"tfreitas@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Clasificados con dominio"
+
+"venturag79@gmail.com";"[u'READ_AND_ANALYZE']","Clasificados con dominio"
+
+"wasuaje@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","Clasificados con dominio"
+
+"1066381970584-169u2vk4gghqjf9tk0clpan3bm0j8o5t@developer.gserviceaccount.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","sin-filtros (clasificadoseluniversal.com)"
+
+"adrianaaguilar596@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (clasificadoseluniversal.com)"
+
+"adry2410@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (clasificadoseluniversal.com)"
+
+"adwords@lastchance.es";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (clasificadoseluniversal.com)"
+
+"allanjosezambrano@gmail.com";"[u'MANAGE_USERS']","sin-filtros (clasificadoseluniversal.com)"
+
+"anamgt1803@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (clasificadoseluniversal.com)"
+
+"angela.fortuna@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","sin-filtros (clasificadoseluniversal.com)"
+
+"asn@lastchance.es";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (clasificadoseluniversal.com)"
+
+"calzadillaherminia@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (clasificadoseluniversal.com)"
+
+"cfleitas6@gmail.com";"[u'READ_AND_ANALYZE']","sin-filtros (clasificadoseluniversal.com)"
+
+"cj.serra@gmail.com";"[u'READ_AND_ANALYZE']","sin-filtros (clasificadoseluniversal.com)"
+
+"clasificados.anunciantes@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (clasificadoseluniversal.com)"
+
+"crespo.luisf@gmail.com";"[u'READ_AND_ANALYZE']","sin-filtros (clasificadoseluniversal.com)"
+
+"eduardoluisquintero@gmail.com";"[u'READ_AND_ANALYZE']","sin-filtros (clasificadoseluniversal.com)"
+
+"ejon71181@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","sin-filtros (clasificadoseluniversal.com)"
+
+"elbert253@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (clasificadoseluniversal.com)"
+
+"eliaslilueo@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (clasificadoseluniversal.com)"
+
+"elizabethparedesv@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (clasificadoseluniversal.com)"
+
+"francymanrique1523@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (clasificadoseluniversal.com)"
+
+"froilan.fermin@gmail.com";"[u'READ_AND_ANALYZE']","sin-filtros (clasificadoseluniversal.com)"
+
+"grupocanalesdeventa@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (clasificadoseluniversal.com)"
+
+"humbertonieto@gmail.com";"[u'READ_AND_ANALYZE']","sin-filtros (clasificadoseluniversal.com)"
+
+"ilsebadilla@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (clasificadoseluniversal.com)"
+
+"internet.eluniversal@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","sin-filtros (clasificadoseluniversal.com)"
+
+"isley79@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (clasificadoseluniversal.com)"
+
+"jlsvera@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (clasificadoseluniversal.com)"
+
+"joaneibarra@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (clasificadoseluniversal.com)"
+
+"jorgeeliecer71@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (clasificadoseluniversal.com)"
+
+"jose.montiel@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","sin-filtros (clasificadoseluniversal.com)"
+
+"katherine.echeverri@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","sin-filtros (clasificadoseluniversal.com)"
+
+"kmanzol26@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (clasificadoseluniversal.com)"
+
+"ladg.1985@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (clasificadoseluniversal.com)"
+
+"lorenachiqui@gmail.com";"[u'READ_AND_ANALYZE']","sin-filtros (clasificadoseluniversal.com)"
+
+"luisdavid0500@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (clasificadoseluniversal.com)"
+
+"maryalma05@gmail.com";"[u'READ_AND_ANALYZE']","sin-filtros (clasificadoseluniversal.com)"
+
+"mlucianj@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (clasificadoseluniversal.com)"
+
+"mochima79@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (clasificadoseluniversal.com)"
+
+"nazac1204@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (clasificadoseluniversal.com)"
+
+"nildita85@gmail.com";"[u'READ_AND_ANALYZE']","sin-filtros (clasificadoseluniversal.com)"
+
+"paolo@digitools.it";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","sin-filtros (clasificadoseluniversal.com)"
+
+"paoloramazzotti@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","sin-filtros (clasificadoseluniversal.com)"
+
+"paulimar82@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (clasificadoseluniversal.com)"
+
+"rafaelr11@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (clasificadoseluniversal.com)"
+
+"raquelitaramos@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","sin-filtros (clasificadoseluniversal.com)"
+
+"rgimen@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","sin-filtros (clasificadoseluniversal.com)"
+
+"rojas.anagabriela@gmail.com";"[u'READ_AND_ANALYZE']","sin-filtros (clasificadoseluniversal.com)"
+
+"rubensyanes@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","sin-filtros (clasificadoseluniversal.com)"
+
+"tcorredor73@gmail.com";"[u'READ_AND_ANALYZE']","sin-filtros (clasificadoseluniversal.com)"
+
+"tfreitas@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","sin-filtros (clasificadoseluniversal.com)"
+
+"venturag79@gmail.com";"[u'READ_AND_ANALYZE']","sin-filtros (clasificadoseluniversal.com)"
+
+"wasuaje@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","sin-filtros (clasificadoseluniversal.com)"
+
+"1066381970584-169u2vk4gghqjf9tk0clpan3bm0j8o5t@developer.gserviceaccount.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","Clasificados 2012 / 2013 - PR"
+
+"adrianaaguilar596@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados 2012 / 2013 - PR"
+
+"adry2410@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados 2012 / 2013 - PR"
+
+"allanjosezambrano@gmail.com";"[u'MANAGE_USERS']","Clasificados 2012 / 2013 - PR"
+
+"anamgt1803@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados 2012 / 2013 - PR"
+
+"angela.fortuna@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Clasificados 2012 / 2013 - PR"
+
+"calzadillaherminia@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados 2012 / 2013 - PR"
+
+"cfleitas6@gmail.com";"[u'READ_AND_ANALYZE']","Clasificados 2012 / 2013 - PR"
+
+"cj.serra@gmail.com";"[u'READ_AND_ANALYZE']","Clasificados 2012 / 2013 - PR"
+
+"crespo.luisf@gmail.com";"[u'READ_AND_ANALYZE']","Clasificados 2012 / 2013 - PR"
+
+"eduardoluisquintero@gmail.com";"[u'READ_AND_ANALYZE']","Clasificados 2012 / 2013 - PR"
+
+"ejon71181@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Clasificados 2012 / 2013 - PR"
+
+"elbert253@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados 2012 / 2013 - PR"
+
+"eliaslilueo@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados 2012 / 2013 - PR"
+
+"elizabethparedesv@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados 2012 / 2013 - PR"
+
+"francymanrique1523@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados 2012 / 2013 - PR"
+
+"froilan.fermin@gmail.com";"[u'READ_AND_ANALYZE']","Clasificados 2012 / 2013 - PR"
+
+"humbertonieto@gmail.com";"[u'READ_AND_ANALYZE']","Clasificados 2012 / 2013 - PR"
+
+"ilsebadilla@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados 2012 / 2013 - PR"
+
+"internet.eluniversal@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","Clasificados 2012 / 2013 - PR"
+
+"isley79@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados 2012 / 2013 - PR"
+
+"jlsvera@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados 2012 / 2013 - PR"
+
+"jmaguerrevere@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados 2012 / 2013 - PR"
+
+"joaneibarra@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados 2012 / 2013 - PR"
+
+"jorgeeliecer71@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados 2012 / 2013 - PR"
+
+"jose.montiel@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","Clasificados 2012 / 2013 - PR"
+
+"karlaprietom@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados 2012 / 2013 - PR"
+
+"katherine.echeverri@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Clasificados 2012 / 2013 - PR"
+
+"kmanzol26@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados 2012 / 2013 - PR"
+
+"ladg.1985@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados 2012 / 2013 - PR"
+
+"lorenachiqui@gmail.com";"[u'READ_AND_ANALYZE']","Clasificados 2012 / 2013 - PR"
+
+"luisdavid0500@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados 2012 / 2013 - PR"
+
+"maryalma05@gmail.com";"[u'READ_AND_ANALYZE']","Clasificados 2012 / 2013 - PR"
+
+"mlucianj@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados 2012 / 2013 - PR"
+
+"mochima79@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados 2012 / 2013 - PR"
+
+"nazac1204@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados 2012 / 2013 - PR"
+
+"nildita85@gmail.com";"[u'READ_AND_ANALYZE']","Clasificados 2012 / 2013 - PR"
+
+"paolo@digitools.it";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Clasificados 2012 / 2013 - PR"
+
+"paoloramazzotti@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Clasificados 2012 / 2013 - PR"
+
+"paulimar82@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados 2012 / 2013 - PR"
+
+"rafaelr11@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados 2012 / 2013 - PR"
+
+"raquelitaramos@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Clasificados 2012 / 2013 - PR"
+
+"rgimen@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Clasificados 2012 / 2013 - PR"
+
+"rojas.anagabriela@gmail.com";"[u'READ_AND_ANALYZE']","Clasificados 2012 / 2013 - PR"
+
+"rosemirgarcia@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados 2012 / 2013 - PR"
+
+"rubensyanes@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados 2012 / 2013 - PR"
+
+"tcorredor73@gmail.com";"[u'READ_AND_ANALYZE']","Clasificados 2012 / 2013 - PR"
+
+"tfreitas@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Clasificados 2012 / 2013 - PR"
+
+"venturag79@gmail.com";"[u'READ_AND_ANALYZE']","Clasificados 2012 / 2013 - PR"
+
+"wasuaje@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","Clasificados 2012 / 2013 - PR"
+
+"xiomaramb21@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Clasificados 2012 / 2013 - PR"
+
+"1066381970584-169u2vk4gghqjf9tk0clpan3bm0j8o5t@developer.gserviceaccount.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","Mi Zona Hispana"
+
+"alejandrolunamoreno@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Mi Zona Hispana"
+
+"allanjosezambrano@gmail.com";"[u'MANAGE_USERS']","Mi Zona Hispana"
+
+"angela.fortuna@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Mi Zona Hispana"
+
+"cfleitas6@gmail.com";"[u'READ_AND_ANALYZE']","Mi Zona Hispana"
+
+"cj.serra@gmail.com";"[u'READ_AND_ANALYZE']","Mi Zona Hispana"
+
+"crespo.luisf@gmail.com";"[u'READ_AND_ANALYZE']","Mi Zona Hispana"
+
+"eduardoluisquintero@gmail.com";"[u'READ_AND_ANALYZE']","Mi Zona Hispana"
+
+"ejon71181@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Mi Zona Hispana"
+
+"eliaslilueo@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Mi Zona Hispana"
+
+"elidesr@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Mi Zona Hispana"
+
+"elizabethparedesv@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Mi Zona Hispana"
+
+"froilan.fermin@gmail.com";"[u'READ_AND_ANALYZE']","Mi Zona Hispana"
+
+"humbertonieto@gmail.com";"[u'READ_AND_ANALYZE']","Mi Zona Hispana"
+
+"internet.eluniversal@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","Mi Zona Hispana"
+
+"ivan.varela@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Mi Zona Hispana"
+
+"jlsvera@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Mi Zona Hispana"
+
+"joaneibarra@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Mi Zona Hispana"
+
+"jorgeeliecer71@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Mi Zona Hispana"
+
+"jose.montiel@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","Mi Zona Hispana"
+
+"katherine.echeverri@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Mi Zona Hispana"
+
+"ladg.1985@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Mi Zona Hispana"
+
+"lissettelr@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Mi Zona Hispana"
+
+"lorenachiqui@gmail.com";"[u'READ_AND_ANALYZE']","Mi Zona Hispana"
+
+"mlucianj@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Mi Zona Hispana"
+
+"nildita85@gmail.com";"[u'READ_AND_ANALYZE']","Mi Zona Hispana"
+
+"paolo@digitools.it";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Mi Zona Hispana"
+
+"paoloramazzotti@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Mi Zona Hispana"
+
+"paulimar82@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Mi Zona Hispana"
+
+"raquelitaramos@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Mi Zona Hispana"
+
+"rbocaranda@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Mi Zona Hispana"
+
+"rgimen@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Mi Zona Hispana"
+
+"rubensyanes@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Mi Zona Hispana"
+
+"sabrina.sabrys@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Mi Zona Hispana"
+
+"taisa.medina@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Mi Zona Hispana"
+
+"tcorredor73@gmail.com";"[u'READ_AND_ANALYZE']","Mi Zona Hispana"
+
+"tfreitas@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Mi Zona Hispana"
+
+"venturag79@gmail.com";"[u'READ_AND_ANALYZE']","Mi Zona Hispana"
+
+"wasuaje@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","Mi Zona Hispana"
+
+"1066381970584-169u2vk4gghqjf9tk0clpan3bm0j8o5t@developer.gserviceaccount.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","Anunciantes"
+
+"alejandrolunamoreno@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Anunciantes"
+
+"allanjosezambrano@gmail.com";"[u'MANAGE_USERS']","Anunciantes"
+
+"angela.fortuna@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Anunciantes"
+
+"cfleitas6@gmail.com";"[u'READ_AND_ANALYZE']","Anunciantes"
+
+"cj.serra@gmail.com";"[u'READ_AND_ANALYZE']","Anunciantes"
+
+"crespo.luisf@gmail.com";"[u'READ_AND_ANALYZE']","Anunciantes"
+
+"eduardoluisquintero@gmail.com";"[u'READ_AND_ANALYZE']","Anunciantes"
+
+"ejon71181@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Anunciantes"
+
+"eliaslilueo@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Anunciantes"
+
+"elidesr@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Anunciantes"
+
+"elizabethparedesv@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Anunciantes"
+
+"enrimar.gonzalez@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Anunciantes"
+
+"froilan.fermin@gmail.com";"[u'READ_AND_ANALYZE']","Anunciantes"
+
+"humbertonieto@gmail.com";"[u'READ_AND_ANALYZE']","Anunciantes"
+
+"inmueblesceu@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Anunciantes"
+
+"internet.eluniversal@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","Anunciantes"
+
+"ivan.varela@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Anunciantes"
+
+"jlsvera@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Anunciantes"
+
+"jmaguerrevere@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Anunciantes"
+
+"joaneibarra@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Anunciantes"
+
+"jorgeeliecer71@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Anunciantes"
+
+"jose.montiel@gmail.com";"[u'COLLABORATE', u'EDIT', u'MANAGE_USERS', u'READ_AND_ANALYZE']","Anunciantes"
+
+"karlaprietom@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Anunciantes"
+
+"katherine.echeverri@gmail.com";"[u'COLLABORATE', u'EDIT', u'READ_AND_ANALYZE']","Anunciantes"
+
+"ladg.1985@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Anunciantes"
+
+"lissettelr@gmail.com";"[u'COLLABORATE', u'READ_AND_ANALYZE']","Anunciantes"
+
